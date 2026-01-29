@@ -1,83 +1,74 @@
 # Hi there 👋 I'm Payal  
 
-🚀 Aspiring Full-Stack Developer | MERN + Django | Passionate Learner  
+🚀 Full-Stack Developer | MERN + Django | Passionate Learner  
 
-Welcome to my GitHub profile! I enjoy building real-world web applications, learning new technologies, and improving my problem-solving skills every day.
+Welcome to my GitHub profile! I build real-world web applications, explore modern backend architectures, and continuously improve my problem-solving skills.
 
 ---
 
 ## 👩‍💻 About Me  
 
 - 🚀 Full-Stack Developer (MERN + Django)  
-- 💻 Skilled in both frontend and backend development  
-- 🌱 Currently improving **DSA, System Design, and Backend Architecture**  
-- 🧠 Love writing clean, scalable, and maintainable code  
-- 🎯 Goal: Become a professional software engineer and work on impactful products  
+- 💻 Strong in frontend & backend development  
+- 🌱 Currently focused on **DSA, System Design, and Backend Architecture**  
+- 🧠 Writing clean, scalable, and maintainable code  
+- 🎯 Goal: Build impactful software products as a professional engineer  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### Frontend  
-- HTML5, CSS3, JavaScript (ES6+)  
-- React.js  
-- Tailwind CSS  
+### 🎨 Frontend
+- HTML5, CSS3  
+- Tailwind CSS, Bootstrap  
+- JavaScript (ES6+)  
+- React.js, Next.js  
 
-### Backend  
-- Node.js  
-- Express.js  
-- Django  
+### ⚙️ Backend
+- Node.js, Express.js  
+- Django, FastAPI  
+- RESTful APIs  
 
-### Databases  
+### 🧠 Programming Languages
+- JavaScript  
+- Python  
+- C++  
+
+### 🗄️ Databases
 - MongoDB  
 - MySQL  
-- SQL  
+- PostgreSQL  
+
+### 🧰 Tools & Others
+- Git & GitHub  
+- Postman  
+- VS Code  
 
 ---
 
 ## 📌 What I'm Working On  
-- Building full-stack projects  
-- Improving backend performance and security  
-- Practicing Data Structures & Algorithms  
-- Exploring scalable system design  
+
+- Full-stack production-ready projects  
+- Secure & scalable backend APIs  
+- Data Structures & Algorithms practice  
+- System design fundamentals  
+
+---
+
+## 📈 What You'll Find Here  
+
+- 🔹 Full-stack web applications  
+- 🔹 Backend & REST APIs  
+- 🔹 Authentication & authorization systems  
+- 🔹 Practice & learning projects  
 
 ---
 
 ## 📫 Connect With Me  
-- GitHub: [https://github.com/your-username](https://github.com/your-username)  
-- LinkedIn: (add your LinkedIn here)  
-- Email: (optional)
+
+- GitHub: https://github.com/itmepayal  
 
 ---
 
-⭐ If you like my projects, feel free to star them!
-
-
-* MongoDB, MySQL, SQL
-
-**Tools & Others:**
-
-* Git & GitHub
-* REST APIs
-* Postman
-* VS Code
-
----
-
-## 📈 What You'll Find Here
-
-* 🔹 Full-stack web projects
-* 🔹 Backend APIs
-* 🔹 Authentication systems
-* 🔹 Practice projects
-* 🔹 Learning experiments
-
----
-
-## 📫 Connect With Me
-
-* GitHub: [https://github.com/itmepayal](https://github.com/itmepayal)
-
----
-
-✨ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ If you find my work useful, feel free to star the repositories!  
+✨ Thanks for visiting!
